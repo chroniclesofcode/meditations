@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'chroniclesofcode',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -72,13 +72,24 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'programmingSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Programming',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            type: 'docSidebar',
+            sidebarId: 'thoughtsSidebar',
+            position: 'left',
+            label: 'Thoughts',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'portfolioSidebar',
+            position: 'left',
+            label: 'Portfolio',
+          },
+          {
+            href: 'https://github.com/chroniclesofcode/blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -88,20 +99,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Programming',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Blog',
+                to: '/docs/programming/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Thoughts',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Intro',
+                href: '/docs/thoughts/intro',
               },
               {
                 label: 'Discord',
@@ -117,17 +128,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Portfolio',
+                to: '/docs/portfolio/intro',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/chroniclesofcode',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} chroniclesofcode`,
       },
       prism: {
         theme: lightCodeTheme,
