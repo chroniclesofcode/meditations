@@ -14,11 +14,11 @@ const config = {
   url: 'https://chroniclesofcode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/blog',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'chroniclesofcode.github.io', // Usually your GitHub org/user name.
+  organizationName: 'chroniclesofcode', // Usually your GitHub org/user name.
   projectName: 'blog', // Usually your repo name.
   trailingSlash: false,
 
