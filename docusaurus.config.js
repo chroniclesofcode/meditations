@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'chroniclesofcode',
   tagline: 'Short articles about things I find interesting',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/dicon.jpeg',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -55,12 +55,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/dicon.jpeg',
       navbar: {
         title: 'chroniclesofcode',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/dicon.jpeg',
         },
         items: [
           {

@@ -4,32 +4,33 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Programming',
+    Svg: require('@site/static/img/programmingimage.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Things that I find interesting in the world of programming - from short 
+        guides, interesting algorithms to random musings on improvement. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Thoughts',
+    Svg: require('@site/static/img/3818985.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        A small 'open journal' where I document the thoughts I have on life,
+        my hobbies, my cats, short poems, and much more. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Portfolio',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        A showcase of some of the
+        things I have built or worked on. Includes C++, Networks, OS, Game
+        dev, Frontend dev, data structures and algorithms.
       </>
     ),
   },

@@ -1,47 +1,25 @@
 ---
 sidebar_position: 1
+title: Intro
 ---
 
-# Tutorial Intro
+# Programming
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the 'Programming' section! This is the place where I write some of
+my musings on programming-related topics. I can't guarantee everything will be
+educational - but it might just be small things I find interesting, or perhaps
+a short guide on how to do something. I am by no means a supreme expert at
+coding, but hopefully some of these articles are fun to read.
 
-## Getting Started
+My interests are usually C++, Networks, Operating Systems, a little bit of
+Frontend development and Game development. I am also particularly interested
+in low-latency systems, as I find it really fun to really push the limits of speed,
+and some of the techniques used are very insightful. 
 
-Get started by **creating a new site**.
+I also love algorithms and solving related problems on the various websites such
+as codeforces and leetcode as a hobby. So you will definitely find some articles on techniques
+and algorithms I find interesting :)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+So these are some of the things you might expect to be reading here. There will be
+other topics, so feel free to check the sidebar and see if there's anything that
+piques your interest!
