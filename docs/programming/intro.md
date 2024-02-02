@@ -7,7 +7,7 @@ title: Intro
 
 Welcome to the 'Programming' section! This is the place where I write some of
 my musings on programming-related topics. I can't guarantee everything will be
-educational - but it might just be small things I find interesting, or perhaps
+educational or even technical - but it might just be small things I find interesting, or perhaps
 a short guide on how to do something. I am by no means a supreme expert at
 coding, but hopefully some of these articles are fun to read.
 
