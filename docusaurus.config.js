@@ -14,12 +14,12 @@ const config = {
   url: 'https://chroniclesofcode.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/blog/',
+  baseUrl: '/meditations/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'chroniclesofcode', // Usually your GitHub org/user name.
-  projectName: 'blog', // Usually your repo name.
+  projectName: 'meditations', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/chroniclesofcode/blog/edit/main/',
+            'https://github.com/chroniclesofcode/meditations/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -66,15 +66,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'programmingSidebar',
+            sidebarId: 'meditationsSidebar',
             position: 'left',
-            label: 'Programming',
+            label: 'Meditations',
           },
           {
             type: 'docSidebar',
-            sidebarId: 'thoughtsSidebar',
+            sidebarId: 'programmingSidebar',
             position: 'left',
-            label: 'Thoughts',
+            label: 'Programming',
           },
           {
             type: 'docSidebar',
@@ -83,7 +83,7 @@ const config = {
             label: 'Portfolio',
           },
           {
-            href: 'https://github.com/chroniclesofcode/blog',
+            href: 'https://github.com/chroniclesofcode/meditations',
             label: 'GitHub',
             position: 'right',
           },
@@ -93,20 +93,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Programming',
+            title: 'Meditations',
             items: [
               {
-                label: 'Blog',
-                to: '/docs/programming/intro',
+                label: 'Meditations',
+                to: '/docs/meditations/intro',
               },
             ],
           },
           {
-            title: 'Thoughts',
+            title: 'Programming',
             items: [
               {
-                label: 'Intro',
-                href: '/docs/thoughts/intro',
+                label: 'Programming',
+                href: '/docs/programming/intro',
               },
             ],
           },

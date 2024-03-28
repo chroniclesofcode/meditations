@@ -5,10 +5,7 @@ title: Memorisation
 
 # Memorisation
 
-This article definitely blurs the lines between the 'programming' section and the
-'thoughts' section.
-
-But recently, I've been very interested in the science of learning. I'm not going
+Recently, I've been very interested in the science of learning. I'm not going
 to talk about all the details here, but one thing I found particularly noteworthy
 was about your 'working memory'. 
 
@@ -31,6 +28,5 @@ I know a lot of people believe that good engineers don't need to memorise anythi
 since Google exists, or that coding up and applying their knowledge is the only way
 to learn something. They definitely have arguments, but there are some things
 that are just better to memorise. Perhaps it's a certain algorithm? Or maybe a slight
-intricacy of a language/architecture. The second something goes in my Anki - I already know
-that will be a part of my knowledge for a long time coming. I don't know - but give it a try - it has really
-helped me in many, many ways. 
+intricacy of a language/architecture. The moment something goes in my Anki - I already know
+that piece of knowledge will be in my brain forever. And that's something very powerful.

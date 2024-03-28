@@ -8,7 +8,7 @@ title: Possibilities
 So recently, I have been getting into the board game Go/Weiqi/Baduk. If you don't
 know what that is, a great website to check out would be `www.learn-go.net`. It's
 an ancient board game which is similar-ish to Chess, but in my opinion, much more
-deep and entertaining (I have also played my fair share of chess as well...).
+deep and entertaining (I have also played my fair share of chess as well when I was younger).
 
 Anyways, this article is not about Go. It's about opening your mind to many possibilities. The premise
 of the game is incredibly simple - there are very few rules and can easily be

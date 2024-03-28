@@ -14,13 +14,12 @@ of understanding one can achieve of the Dao, despite it seeming like fun abstrac
 the beginning, we all start off as butterflies, a more primitive lifeform - and as we gain understanding
 of higher order rules - rules of the world - we will 'wake up' from this dream, and realise that we
 were a human dreaming of a butterfly. You were living in this world the entire time, yet oblivious to
-how the world really is. I am sure a butterfly does not know of money and football, just as a summer insect
-unknowing of ice and snow.
+how the world really is. I am sure a butterfly does not know of money and mathematics.
 
 I liken this concept to programming, and mastery of skills in general. It is similar to the saying
 "For every step we take, we are two steps further from our destination". The more understanding of
 programming we get, the more we realise there is so much more to be learnt. The more we realise our
 systems can be designed better. The faster we can make our algorithms. You are at your strongest
-when you acknowledge you are the weakest. Perhaps that is why Jigoro Kano, the founder of Judo, was
+when you acknowledge you are the weakest. That is why Jigoro Kano, the founder of Judo, was
 asked to be buried in his white belt. I only hope that I can someday wake up and realise I was dreaming
 as a butterfly.
