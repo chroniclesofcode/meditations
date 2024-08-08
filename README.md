@@ -2,8 +2,9 @@
 
 https://chroniclesofcode.github.io/blog/
 
-Personal blog full of short articles written by me about programming, and other
-random thoughts I have about things I find interesting. 
-Also includes a portfolio page where you can see some of the stuff I have built!
+Personal blog full of short meditations written by me about life. I originally
+started writing this as an 'open journal' purely for myself, but I hope that
+other people will be able to read this as well in order consider the world from
+a different point of view.
 
 Built using Docusaurus.

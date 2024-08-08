@@ -70,12 +70,14 @@ const config = {
             position: 'left',
             label: 'Meditations',
           },
+          /*
           {
             type: 'docSidebar',
             sidebarId: 'programmingSidebar',
             position: 'left',
             label: 'Programming',
           },
+          */
           {
             type: 'docSidebar',
             sidebarId: 'portfolioSidebar',
@@ -101,6 +103,7 @@ const config = {
               },
             ],
           },
+          /*
           {
             title: 'Programming',
             items: [
@@ -110,6 +113,7 @@ const config = {
               },
             ],
           },
+          */
           {
             title: 'More',
             items: [

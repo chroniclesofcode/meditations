@@ -14,12 +14,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Thoughts',
+    title: 'Meditations',
     Svg: require('@site/static/img/3818985.svg').default,
     description: (
       <>
         A small 'open journal' where I document the thoughts I have on life,
-        my hobbies, my cats, short poems, and much more. 
+        my hobbies, my cats, philosophy, and much more. 
       </>
     ),
   },
@@ -29,8 +29,7 @@ const FeatureList = [
     description: (
       <>
         A showcase of some of the
-        things I have built or worked on. Includes C++, Networks, OS, Game
-        dev, Frontend dev, data structures and algorithms.
+        things I have built or worked on. Currently a work in progress!
       </>
     ),
   },

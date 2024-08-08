@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 104
 title: Awareness is Self-Control
 ---
 
@@ -21,11 +21,11 @@ breathing - and aware of your mind, your thoughts - and you are consciously brin
 thoughts back onto your breath. This is the very muscle of self-control, and like all
 muscles, can be trained.
 
-I have recently watched a show called 'Sousou no Frieren' - in this show, the main
+I have recently watched a show called Frieren: Beyond Journey's End - in this show, the main
 character perfectly conceals and suppresses the fluctuations of her magical power
-for milennia - a task deemed by the show as requiring a large amount of concentration - yet she has almost impossibly
+for milennia - a task deemed by the show as requiring an incredible amount of concentration and focus - yet she has almost impossibly
 mastered this skill to be doing it subconsciously 24/7, only revealing her true power when facing
-formidable foes. Every time a villain discovers her power was over 100x than what it seems
+formidable enemies. Every time a villain discovers her power was over 100x than what it seemed
 on the surface, they are immensely shocked as this feat is virtually impossible.
 I like to parallelise this technique to that of your internal conflict
 resolution - every waking moment, we should monitor all the thoughts and desires that
