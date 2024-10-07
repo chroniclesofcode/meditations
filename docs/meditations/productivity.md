@@ -5,20 +5,15 @@ title: Productivity
 
 # Productivity
 
-I am sure you, and many other people have at least consumed content teaching you
-how to be more productive - whether it's a book to fix your habits, or a youtube
-video telling you a "2-minute hack to stop procrastination". However, I feel as
-though I am at a stage where I have come round circle. Sometimes, there is no
-hack. Perhaps the only productivity advice you need is: 
-- to sit down and do what you need to do. When your mind wanders, bring your attention back.
-In the end, that is all that is necessary to complete your tasks. Every trick out there is
-just trying to get you to do the above in a more roundabout way. 
+Chances are, you and many others have immersed yourselves in content aimed at boosting productivity—whether through books that refine your habits or YouTube videos promising a "2-minute hack to conquer procrastination." Yet, I find myself feeling as though I've come full circle. Sometimes, there simply is no magic trick. Perhaps the most valuable piece of productivity advice is:
 
-We can also talk about learning efficiency and whatnot - but it boils down to: 
-- Think deeply about whatever you are learning, and if you need to remember the details, then write it down and review it often.
-There is of course more you can talk about with Bloom's taxonomy, spaced repetition, etc - but in the end,
-if you think deeply about a problem and really try to understand how it connects with everything you are
-learning, then that's 90% of the way there.
+- Sit down and tackle what needs to be done. When your mind begins to wander, redirect your focus back to the task at hand.
+Ultimately, this straightforward approach is all that's required to accomplish your goals. Every productivity hack available is merely an attempt to guide you toward this fundamental practice in a more convoluted manner.
 
-That's pretty much it. Of course, easier said than done - but there comes a point where
-one should not get caught up so much in how to do it - and just do the task.
+When it comes to enhancing learning efficiency, the principle remains similar:
+
+- Engage deeply with the material you are studying. If retaining details is necessary, make a habit of writing them down and reviewing them regularly.
+Of course, there are more sophisticated strategies to explore, such as Bloom's taxonomy and spaced repetition. However, the essence lies in thoroughly contemplating problems and striving to understand how they interconnect with your broader learning. If you take this concept into account, you are already 90% of the way there.
+
+While it is easier said than done, there comes a time when one must stop overthinking the process and simply undertake the task. Embrace the simplicity of focused action, and the rest will follow.
+
