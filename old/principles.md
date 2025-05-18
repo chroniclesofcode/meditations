@@ -7,7 +7,7 @@ title: Principles
 
 Here are a few principles that I live by which I have put an immense amount
 of thought into. Just because a principle is not on this list, does not 
-mean that I do not abide by it. This list is ordered. These will be continuously updated so long as I am alive.
+mean that I do not abide by it. This list is ordered. 
 
 0) Nothing on this list can be achieved without hard work.
 1) Relentless learning and self improvement. "The days are long, but the decades are short".
